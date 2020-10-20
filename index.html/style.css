@@ -1,0 +1,16 @@
+nav .navbar-brand {
+  font-family:  'Bangers', cursive;
+}
+nav ul li a i {
+  margin-right:  2px
+}
+hr .my-4 {
+  color: darkgrey;
+}
+.jumbortron, #home-page  {
+  background-image: url('images/news-background-pic-3225524.jpeg');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+color: #fff;
+}
